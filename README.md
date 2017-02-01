@@ -31,4 +31,4 @@ $ python setup.py
 
 ## License
 
-The MIT Licence (MIT). Please see the [License file](https://github.com/kelvingobo/k-stats.git/blob/master/LICENCE.md) for mor information.
+The MIT Licence (MIT). Please see the [License file](https://github.com/kelvingobo/k-stats/blob/master/LICENCE.md) for mor information.
