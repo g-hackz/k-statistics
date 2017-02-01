@@ -1,6 +1,6 @@
-# K-Statistics
+# K-Stats
 
-K-Statistics is a simple module for calculating basic statistical measures like:
+K-Stats is a simple module for calculating basic statistical measures like:
 
 * Mean
 * Median
@@ -10,7 +10,7 @@ K-Statistics is a simple module for calculating basic statistical measures like:
 
 ## Prerequisites
 
-You need python 2.7 to use this module
+* python 2.7
 
 ## Installation
 
@@ -28,3 +28,7 @@ $ python setup.py
 >>> import k-statistics
 >>> print k-statistics.get_mean([4, 7, 10])
 ```
+
+## License
+
+The MIT Licence (MIT). Please see the [License file](https://github.com/kelvingobo/k-stats.git/blob/master/LICENCE.md) for mor information.
