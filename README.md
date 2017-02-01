@@ -17,16 +17,16 @@ K-Stats is a simple module for calculating basic statistical measures like:
 Clone the GitHub repository and run the **setup.py** file.
 
 ```
-$ git clone https://github.com/g-hackz/k-statistics.git
-$ cd k-statistics
+$ git clone https://github.com/g-hackz/k-stats.git
+$ cd k-stats
 $ python setup.py
 ```
 
 ## Usage
 
 ```
->>> import k-statistics
->>> print k-statistics.get_mean([4, 7, 10])
+>>> import k-stats
+>>> print k-stats.get_mean([4, 7, 10])
 ```
 
 ## License
